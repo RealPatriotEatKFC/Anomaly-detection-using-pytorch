@@ -3,7 +3,7 @@
 
 1. Python 최신버젼이 필요하며 추가적으로 필요한 사항은 requirements.txt에 저장해두었습니다.
    
-2. 윈도우 환경에서 cmd창을 열고 python -m venv <테스트 폴더명>
+2. 윈도우 환경에서 cmd창을 열고 python -m venv <테스트 폴더명>,
    <테스트 폴더명>/scripts/activate 명령으로 가상환경을 만들어줍니다.
   pip install -r requirements.txt 명령으로 필요한 요소를 다운로드 합니다.
 
